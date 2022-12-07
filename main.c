@@ -9,7 +9,7 @@ void main(void) {
    
    pc = (char*)malloc(100*sizeof(char));
    if(pc == NULL){
-      printf(" ?   ?      \n");
+      printf("¿À·ù¹ß\n");
       exit(1);
    }
    for (i=0;i<26;i++){
